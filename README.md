@@ -1,0 +1,1 @@
+# BankDocumentsClassification_Miniprojec
